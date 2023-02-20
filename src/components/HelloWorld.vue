@@ -4,14 +4,6 @@
     <h2>Essential Links</h2>
     <ul>
       
-      <li>
-        <a
-          href="https://twitter.com/vuejs"
-          target="_blank"
-        >
-          Twitter
-        </a>
-      </li>
       <br>
       <li>
         <a
